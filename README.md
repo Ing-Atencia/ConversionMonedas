@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 <h1>Programa de Conversión de Divisas 💱</h1>
 </div>
@@ -66,3 +67,6 @@ Además, se ha diseñado una clase específica para almacenar datos de conversi�
 - Implementa una arquitectura robusta y escalable para garantizar un rendimiento óptimo.
 
 Con esta arquitectura y características, el proyecto ofrece una solución integral y efectiva para las necesidades de conversión de divisas de los usuarios, combinando tecnología moderna y facilidad de uso.
+=======
+# ConversionMonedas
+>>>>>>> 9b83603cb4a5e066508fe8a7f49f25a24ca9ff95

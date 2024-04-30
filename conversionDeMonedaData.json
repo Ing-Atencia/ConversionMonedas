@@ -1,0 +1,42 @@
+[
+  {
+    "timeLastUpdateUtc": "Tue, 30 Apr 2024 00:00:01 +0000",
+    "timeNextUpdateUtc": "Wed, 01 May 2024 00:00:01 +0000",
+    "baseCode": "COP",
+    "targetCode": "USD",
+    "conversionRate": 2.5675E-4,
+    "conversionResult": 0.005135
+  },
+  {
+    "timeLastUpdateUtc": "Tue, 30 Apr 2024 00:00:01 +0000",
+    "timeNextUpdateUtc": "Wed, 01 May 2024 00:00:01 +0000",
+    "baseCode": "USD",
+    "targetCode": "COP",
+    "conversionRate": 3894.8367,
+    "conversionResult": 116845.101
+  },
+  {
+    "timeLastUpdateUtc": "Tue, 30 Apr 2024 00:00:01 +0000",
+    "timeNextUpdateUtc": "Wed, 01 May 2024 00:00:01 +0000",
+    "baseCode": "BRL",
+    "targetCode": "ARS",
+    "conversionRate": 169.052,
+    "conversionResult": 8452.6
+  },
+  {
+    "timeLastUpdateUtc": "Tue, 30 Apr 2024 00:00:01 +0000",
+    "timeNextUpdateUtc": "Wed, 01 May 2024 00:00:01 +0000",
+    "baseCode": "ARS",
+    "targetCode": "BOB",
+    "conversionRate": 0.008004,
+    "conversionResult": 0.48024
+  },
+  {
+    "timeLastUpdateUtc": "Tue, 30 Apr 2024 00:00:01 +0000",
+    "timeNextUpdateUtc": "Wed, 01 May 2024 00:00:01 +0000",
+    "baseCode": "USD",
+    "targetCode": "COP",
+    "conversionRate": 3894.8367,
+    "conversionResult": 38948.367
+  }
+]
